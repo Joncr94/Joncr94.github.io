@@ -1,6 +1,6 @@
 # Aspiring Data Analyst 
 
-(/Images/Photo.JPG)
+Joncr94.github.io/Images/Photo.JPG
 ## Introduction
 
 
