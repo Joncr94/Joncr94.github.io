@@ -1,4 +1,6 @@
 # Aspiring Data Analyst 
+
+(/Images/Photo.JPG)
 ## Introduction
 
 
