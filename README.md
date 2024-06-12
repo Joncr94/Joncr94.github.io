@@ -1,6 +1,6 @@
 # Aspiring Data AnalystS 
 
-/Images/Photo.JPG
+(/Images/Photo.JPG)
 ## Introduction
 
 
