@@ -1,9 +1,8 @@
-# Aspiring Data AnalystS 
+# Aspiring Data Analyst
 
-(/Images/Photo.JPG)
 ## Introduction
 
 
-###Data Analytics projects 
+### Data Analytics projects 
 - Analyzing Web Scraped Zillow Listings
 - SteamDB Game Analytics
