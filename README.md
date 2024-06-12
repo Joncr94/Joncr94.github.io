@@ -1,4 +1,4 @@
-#Data Analyst
+# Data Analyst
 
 ## Introduction
 As an aspiring data professional, I drive to collect information for high level decision making. In my previous line of work as a Subject Matter Expert, I frequently utilized data storage, collection, and query techniques to collaborate with researchers and drive forth company initiatives. 
@@ -9,4 +9,4 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
 - Analyzing Web Scraped Zillow Listings
 - SteamDB Game Analytics
 
-###Skills: Python, JavaScript, SQL, HTML,  Visual Studio Code, Tableau, IBM Cognos Analytics, Excel, Qualtrics.
+### Skills: Python, JavaScript, SQL, HTML, Jupyter Notebooks, Visual Studio Code, Tableau, IBM Cognos Analytics, Excel, Qualtrics.
