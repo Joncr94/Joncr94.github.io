@@ -1,4 +1,4 @@
-# Aspiring Data Analyst 
+# Aspiring Data AnalystS 
 
 Joncr94.github.io/Images/Photo.JPG
 ## Introduction
