@@ -10,3 +10,18 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
 - SteamDB Game Analytics
 
 ### Skills: Python, JavaScript, SQL, HTML, Jupyter Notebooks, Visual Studio Code, Tableau, IBM Cognos Analytics, Excel, Qualtrics.
+
+### [IBM Data Analyst Certificate](https://coursera.org/share/fd18d6b2c9e43f7727e7b5f29badbb4e) 
+
+##Work History
+**Meta (Contract via Rose International) - Research Participant Recruiter III - (_June 2022 - September 2023_)**
+- Worked with company stakeholders and researchers on the content Monetization team to identify target demographics for user research studies.
+- Utilized SQL pulls to create lists of participants that fit project requirements. 
+- Wrote screeners in Qualtrics and captured participant metrics for research projects.
+**User Research International  - Subject Matter Expert - (_August 2017 - June 2022_)**
+  - Utilized database queries to determine feasibility of incoming research projects, adjust project requirements, and create participant contact lists.
+  - Created survey templates with standardized questions in Qualtrics using embedded fields/JavaScript to store participant data.
+  - Provided screeners to recruiters matching project requirements and ensured screener survey logic functioned accordingly.
+
+
+
