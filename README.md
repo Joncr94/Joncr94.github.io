@@ -18,6 +18,7 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
 - Worked with company stakeholders and researchers on the content Monetization team to identify target demographics for user research studies.
 - Utilized SQL pulls to create lists of participants that fit project requirements. 
 - Wrote screeners in Qualtrics and captured participant metrics for research projects.
+- 
 **User Research International  - Subject Matter Expert - (_August 2017 - June 2022_)**
   - Utilized database queries to determine feasibility of incoming research projects, adjust project requirements, and create participant contact lists.
   - Created survey templates with standardized questions in Qualtrics using embedded fields/JavaScript to store participant data.
