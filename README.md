@@ -24,5 +24,8 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
   - Created survey templates with standardized questions in Qualtrics using embedded fields/JavaScript to store participant data.
   - Provided screeners to recruiters matching project requirements and ensured screener survey logic functioned accordingly.
 
+## Education
+**Western Washington University - (_September 2013 - June 2017_)
+- Communication Science and Disorders, BA
 
 
