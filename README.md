@@ -13,7 +13,7 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
 
 ### [IBM Data Analyst Certificate](https://coursera.org/share/fd18d6b2c9e43f7727e7b5f29badbb4e) 
 
-##Work History
+## Work History
 **Meta (Contract via Rose International) - Research Participant Recruiter III - (_June 2022 - September 2023_)**
 - Worked with company stakeholders and researchers on the content Monetization team to identify target demographics for user research studies.
 - Utilized SQL pulls to create lists of participants that fit project requirements. 
