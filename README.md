@@ -25,7 +25,7 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
   - Provided screeners to recruiters matching project requirements and ensured screener survey logic functioned accordingly.
 
 ## Education
-**Western Washington University - (_September 2013 - June 2017_)
+**Western Washington University - (_September 2013 - June 2017_)**
 - Communication Science and Disorders, BA
 
 
