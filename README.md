@@ -5,6 +5,9 @@ As an aspiring data professional, I drive to collect information for high level 
 
 Recently, I completed the IBM Data Analytics certificate and discovered my passion for analytics. Through the program, I learned skills for Python, Python libraries, Jupyter Notebooks, SQL, web scraping, APIs, data cleaning, databases, and numerous data analyzation techniques. Using these new found skills, I started working on my own projects to collect and gather insights for my own curiosities. Please feel free to review some of my projects below! 
 
+## Projects
+
+
 ## Data Analytics projects 
 - Analyzing Web Scraped Zillow Listings
 - SteamDB Game Analytics
