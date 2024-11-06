@@ -7,7 +7,7 @@ Recently, I completed the IBM Data Analytics certificate and discovered my passi
 
 ## Data Analytics projects 
 - [Analyzing Web Scraped Zillow Listings](https://docs.google.com/presentation/d/1RSJoMNw07y0vF2pKU-Z3Adfjz8TsupZ8SSLQthDUDcE/edit#slide=id.p)
-  For this project, I web scraped over 1,000 Zillow listings utilizing Python and Jupypter Notebooks in Visual Stuido Code. Scraped data was cleaned and transformed using Pandas to CSV and uploaded to Tableau for analysis. Data was then summarized and contextualized in Google Slides.
+  For this project, I web scraped over 1,000 Zillow listings utilizing Python and Jupypter Notebooks in Visual Studio Code. Scraped data was cleaned and transformed using Pandas to CSV and uploaded to Tableau for analysis. Data was then summarized and contextualized in Google Slides.
 - [Software Development Market Trends](https://coursera-assessments.s3.amazonaws.com/assessments/1717451844287/ec3bcdad-cfd5-42d5-8dcc-4a583f3a37ed/Final-capstone-story-template.pdf)
   For this project, I used Stack Overflow's yearly developer survey to evaluate popular programming tools and tools developers were planning to use in the next year. Charts were made using IBM Cognos Analytics and slides were created in PowerPoint. 
 
